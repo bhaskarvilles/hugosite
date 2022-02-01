@@ -1,0 +1,4 @@
+baseURL = 'http://hugo.bhaskarvilles.dev/'
+languageCode = 'en-us'
+title = 'Bhaskar Ram'
+theme = 'hugo-theme-hello-friend-ng'
